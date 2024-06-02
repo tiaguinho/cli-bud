@@ -1,0 +1,4 @@
+- name: review a code
+  type: code-review
+  required: ["path"]
+  system: "Make a code review on the file bellow and return de review in a raw format."

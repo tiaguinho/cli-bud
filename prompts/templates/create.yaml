@@ -1,0 +1,11 @@
+- name: write test files
+  type: test
+  suffix: _test
+  required: ["path"]
+  output: true
+  system: "write a unit test for each function. Do not return any other text. Return de content in a raw format."
+- name: write file
+  type: file
+  required: ["content", "output"]
+  output: true
+  system: "Return de content in a raw format."
