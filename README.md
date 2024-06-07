@@ -15,7 +15,7 @@ CLI Bud is a command-line interface (CLI) tool designed to help you on your dail
 To install CLI Bud, use the following command:
 
 ```bash
-go install github.com/tiaguinho/cli-bud
+go install github.com/tiaguinho/cli-bud@latest
 ```
 
 or download the binary from the [releases page](https://github.com/tiaguinho/cli-bud/releases).
