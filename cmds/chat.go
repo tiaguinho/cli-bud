@@ -7,7 +7,7 @@ import (
 
 	"github.com/sashabaranov/go-openai"
 	"github.com/spf13/cobra"
-	"github.com/webnuke/cli-bud/cgpt"
+	"github.com/tiaguinho/cb/cgpt"
 )
 
 // chat is the struct for the chat command

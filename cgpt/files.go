@@ -6,7 +6,7 @@ import (
 	"os"
 
 	openai "github.com/sashabaranov/go-openai"
-	"github.com/webnuke/cli-bud/auth"
+	"github.com/tiaguinho/cb/auth"
 )
 
 // UploadFile uploads a file to the OpenAI API

@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/webnuke/cli-bud/cgpt"
-	"github.com/webnuke/cli-bud/ioutil"
+	"github.com/tiaguinho/cb/cgpt"
+	"github.com/tiaguinho/cb/ioutil"
 )
 
 // Message sends a message to ChatGPT

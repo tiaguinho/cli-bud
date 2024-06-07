@@ -3,9 +3,9 @@ package cmds
 import (
 	"log"
 
-	"github.com/webnuke/cli-bud/cgpt"
-	"github.com/webnuke/cli-bud/ioutil"
-	"github.com/webnuke/cli-bud/prompts"
+	"github.com/tiaguinho/cb/cgpt"
+	"github.com/tiaguinho/cb/ioutil"
+	"github.com/tiaguinho/cb/prompts"
 )
 
 func withPathFlag(prompt *prompts.Prompt, path, output string) {

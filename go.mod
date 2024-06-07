@@ -1,6 +1,6 @@
-module github.com/webnuke/cli-bud
+module github.com/tiaguinho/cb
 
-go 1.21.3
+go 1.22.3
 
 require (
 	github.com/briandowns/spinner v1.23.0
