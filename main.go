@@ -6,9 +6,9 @@ import (
 	"github.com/sashabaranov/go-openai"
 	"github.com/spf13/cobra"
 
-	"github.com/tiaguinho/cb/auth"
-	"github.com/tiaguinho/cb/cgpt"
-	"github.com/tiaguinho/cb/cmds"
+	"github.com/tiaguinho/cli-bud/auth"
+	"github.com/tiaguinho/cli-bud/cgpt"
+	"github.com/tiaguinho/cli-bud/cmds"
 )
 
 var rootCmd = &cobra.Command{}

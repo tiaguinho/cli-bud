@@ -1,4 +1,4 @@
-module github.com/tiaguinho/cb
+module github.com/tiaguinho/cli-bud
 
 go 1.22.3
 

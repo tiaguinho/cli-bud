@@ -3,9 +3,9 @@ package cmds
 import (
 	"log"
 
-	"github.com/tiaguinho/cb/cgpt"
-	"github.com/tiaguinho/cb/ioutil"
-	"github.com/tiaguinho/cb/prompts"
+	"github.com/tiaguinho/cli-bud/cgpt"
+	"github.com/tiaguinho/cli-bud/ioutil"
+	"github.com/tiaguinho/cli-bud/prompts"
 )
 
 func withPathFlag(prompt *prompts.Prompt, path, output string) {

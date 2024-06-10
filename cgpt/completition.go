@@ -7,7 +7,7 @@ import (
 
 	"github.com/briandowns/spinner"
 	openai "github.com/sashabaranov/go-openai"
-	"github.com/tiaguinho/cb/auth"
+	"github.com/tiaguinho/cli-bud/auth"
 )
 
 // send a message to the OpenAI API

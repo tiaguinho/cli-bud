@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/spf13/cobra"
-	"github.com/tiaguinho/cb/prompts"
+	"github.com/tiaguinho/cli-bud/prompts"
 )
 
 // Do is the command for the do action
