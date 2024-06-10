@@ -8,6 +8,8 @@ CLI Bud is a command-line interface (CLI) tool designed to help you on your dail
 - **Unit Test**: Writes unit tests for all files inside a directory with a single command.
 - **Code Review**: Ask for a code review before open a new PR.
 
+For all commands and features, see our [wiki page](https://github.com/tiaguinho/cli-bud/wiki).
+
 ## Installation
 
 ### Step 1
