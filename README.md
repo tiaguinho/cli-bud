@@ -24,7 +24,7 @@ or download the binary from the [releases page](https://github.com/tiaguinho/cli
 
 ### Step 2
 
-With the binary installed, run `cb set-token OPENAI_TOKEN`. This will save the OpenAI token to be used in all requests.
+With the binary installed, run `cli-bud set-token OPENAI_TOKEN`. This will save the OpenAI token to be used in all requests.
 
 **note:** If you are a company and want to embed your OpenAI token on the CLI, please reach me at hello [at] ttemporin [dot] dev.
 
